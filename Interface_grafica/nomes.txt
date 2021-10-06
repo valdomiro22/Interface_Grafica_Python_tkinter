@@ -1,0 +1,11 @@
+Nome.....: Valdomiro
+Telefone.: 16 9 5462-748
+E-mail...: valdomiro@gmail.com
+OBS......: Teste para tentar gravar dados em um arquivo
+
+
+Nome.....: Flavestirdon
+Telefone.: 95 9 4825-6141
+E-mail...: fla@gmail.com
+OBS......: testando novamente
+
